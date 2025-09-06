@@ -752,7 +752,7 @@ canvas {
 ```
 
 </details>
-
+<a href="https://iphone-model-3d.netlify.app/" name="Live">Live View</a>
 ## <a name="links">🔗 Links</a>
 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
