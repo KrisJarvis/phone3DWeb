@@ -67,8 +67,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+git clone https://github.com/KrisJarvis/phone3DWeb.git
+cd phone3DWeb
 ```
 
 **Installation**
